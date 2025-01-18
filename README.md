@@ -11,9 +11,6 @@ This repository contains a comprehensive analysis of crime data in Los Angeles. 
 
 ## Repository Structure
 - **`LA Crime.ipynb`**: The main Jupyter Notebook containing the data analysis workflow.
-- **`data/`**: Folder for raw and processed datasets (not included in this repository for privacy).
-- **`visualizations/`**: Saved plots and graphs generated during the analysis.
-- **`models/`**: (Optional) Trained models or serialized outputs for future use.
 
 ## Installation
 To run this project, you need to have Python installed along with the following libraries:
